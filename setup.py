@@ -41,4 +41,5 @@ setup(
     url='https://github.com/tsy0716/au_nz_jobs',
     version='0.1.0',
     zip_safe=False,
+    long_description_content_type='text/markdown',
 )
