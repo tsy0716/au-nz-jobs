@@ -40,7 +40,7 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/tsy0716/au_nz_jobs',
-    version='0.1.1',
+    version='0.1.2',
     zip_safe=False,
     long_description_content_type='text/markdown',
 )
