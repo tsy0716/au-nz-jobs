@@ -10,7 +10,7 @@ A package to download and save jobs in Australian and New Zealand from
 SEEK.
 
 ## About
-I am a data scientist based in AU/NZ. I found it quite overwhelming to search jobs from SEEK.
+I found it quite overwhelming to search jobs from SEEK.
 It needs lots of clicks and time to find the right jobs. Going deeper, if you want to have a better understanding of the
 trends of the job market, there isn't a handy tool to download the jobs and do some analysis.
 
